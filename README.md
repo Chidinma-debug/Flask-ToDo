@@ -21,4 +21,4 @@ Project Link: [FlaskToDo](https://github.com/Chidinma-debug/Flask-ToDo)
 
 ---
 
-Thank you for choosing *FlaskToDo*! We hope it helps you stay organized and achieve your daily goals. Here's to your productivity! 🎉🚀
+Thank you for choosing *FlaskToDo*! I hope it helps you stay organized and achieve your daily goals. Here's to your productivity! 🎉🚀
