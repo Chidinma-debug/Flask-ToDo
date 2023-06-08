@@ -15,7 +15,7 @@ Welcome to *FlaskToDo*, an intuitively designed to-do list application built usi
 
 ## 🤝 Contact
 
-Your Name - nwoyechidinma@gmail.com
+Your Name - nwoyechidinma518@gmail.com
 
 Project Link: [FlaskToDo](https://github.com/Chidinma-debug/Flask-ToDo)
 
